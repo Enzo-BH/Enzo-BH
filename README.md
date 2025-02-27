@@ -28,5 +28,5 @@
 
 <p align="left">Made with ❤️ in France</p>
 
-<a href="https://www.linkedin.com/fr/enzobh" target="_blank"><img alt="LinkedIn" align="right" width="22" src="https://cdn.simpleicons.org/linkedin/white" /></a>
-<a href="https://x.com/iAayushBharti" target="_blank"><img alt="X/Twitter" align="right" width="22" src="https://cdn.simpleicons.org/x/white" /></a>
+<a href="https://www.linkedin.com/in/enzo-boucetta-hervieux-827313316/" target="_blank"><img alt="LinkedIn" align="right" width="22" src="https://cdn.simpleicons.org/linkedin/white" /></a>
+<a href="https://x.com/" target="_blank"><img alt="X/Twitter" align="right" width="22" src="https://cdn.simpleicons.org/x/white" /></a>
